@@ -1,6 +1,5 @@
-Title: Bluetooth Amplifier Project - PAM8403 Stereo Amplification
+PAM8403 Stereo Amplification
 
-Description:
 The Bluetooth Amplifier project offers an exciting opportunity to amplify your audio experience using the versatile PAM8403 amplifier chip. This project is designed to enhance sound quality and provide convenient connectivity options for various audio sources such as mobile phones, computers, and more.
 
 The heart of this amplifier project lies in the implementation of the PAM8403 amplifier chip. This highly efficient and compact chip delivers robust stereo amplification, ensuring excellent audio output quality. Additionally, the amplifier board is equipped with an inbuilt potentiometer, allowing users to easily adjust the volume to their desired level.
@@ -19,5 +18,5 @@ Explore the project's documentation and source code available on GitHub, enablin
 
 Upgrade your audio setup with the Bluetooth Amplifier project, and immerse yourself in high-quality, wireless sound in a stylish and compact form factor.
 
-Keywords: Bluetooth amplifier, PAM8403, stereo amplification, potentiometer, MP3 Bluetooth kit, AUX input, USB input, 2-channel stereo output, 5V 2A power supply, transparent box, compact design, audio streaming.
+
 ![IMG20220528214902_11zon](https://github.com/EpicInsaan/PAM8403_Stereo_Amplification/assets/87660943/fa38f2de-4c7c-4b26-ae55-578b8800af69)
