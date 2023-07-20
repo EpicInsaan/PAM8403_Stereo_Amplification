@@ -14,9 +14,7 @@ The amplifier project is powered by a 5V 2A power supply, ensuring stable and re
 
 For a visually appealing and space-saving design, the project is housed in a transparent square box. This compact size allows for easy installation and attachment to walls or other surfaces, blending seamlessly with your home or office setup.
 
-Explore the project's documentation and source code available on GitHub, enabling you to delve into the technical details, replicate the project, or even contribute to its further development.
 
-Upgrade your audio setup with the Bluetooth Amplifier project, and immerse yourself in high-quality, wireless sound in a stylish and compact form factor.
 
 
 ![IMG20220528214902_11zon](https://github.com/EpicInsaan/PAM8403_Stereo_Amplification/assets/87660943/fa38f2de-4c7c-4b26-ae55-578b8800af69)
