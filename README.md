@@ -20,3 +20,4 @@ Explore the project's documentation and source code available on GitHub, enablin
 Upgrade your audio setup with the Bluetooth Amplifier project, and immerse yourself in high-quality, wireless sound in a stylish and compact form factor.
 
 Keywords: Bluetooth amplifier, PAM8403, stereo amplification, potentiometer, MP3 Bluetooth kit, AUX input, USB input, 2-channel stereo output, 5V 2A power supply, transparent box, compact design, audio streaming.
+![IMG20220528214902_11zon](https://github.com/EpicInsaan/PAM8403_Stereo_Amplification/assets/87660943/fa38f2de-4c7c-4b26-ae55-578b8800af69)
